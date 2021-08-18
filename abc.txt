@@ -1,2 +1,4 @@
 This is my first file!
 I mean for this branch.
+Some content
+And something new
